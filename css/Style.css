@@ -1,0 +1,126 @@
+body{
+    
+    background-image: url(https://pbs.twimg.com/profile_images/1797742279911780352/L242ZNvu_400x400.jpg);
+    
+
+}
+.card{
+    margin-top: 2rem;
+    background-color: #eae8dc;
+}
+.card_doc{
+    margin-top: 1rem;
+    background-color: black;
+}
+.card-header{
+    background-color: #350F0F;
+    color: white;
+}
+.card-header{
+color: wheat;
+
+}
+.cardtop{
+    background-color: #0e3746;
+}
+.menu{
+    margin-top: 0%;
+    background-color: #580000;
+}
+
+.tittle_c{
+    text-align: center;
+    
+}
+.pregunta{
+    text-align: center;
+    margin-top: 2rem;
+    color: black;
+    
+}
+
+.liga{
+    
+    color: white;
+    text-decoration: none;
+    
+}
+
+.liga:hover{
+    color: #eae8dc;
+    text-decoration: none;
+    
+}
+footer{
+    margin-top: 6rem;
+    background-color: #580000;
+    color: #A7A788;
+    margin-bottom: 0%;
+}
+.pies{
+    margin-top: 4rem;
+    background-color: #0e3746;
+    color: #eae8dc;
+    margin-bottom: 0%;
+}
+.body_index{
+    background-color: #eae8dc;
+}
+.info_bienvenida{
+    margin-top: 3rem;
+}
+.text_bienvenida{
+    text-align: justify;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.informacion{
+    color:white
+}
+/*Registro*/
+#boton_iniciar{
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+}
+
+/*Fin Registro*/
+
+/* Pagina perfil  */
+.carta_perfil{
+    margin-top: 3rem;
+    width: 55rem;
+    
+    
+}
+
+
+/* termina pagina perfil */
+/*Inputs*/
+.inputt{
+    background-color: #eae8dc;
+}
+.inputt:focus{
+    background-color: black;
+}
+
+/*Fin Inputs*/
+
+
+/*  Mostrar paciente */
+
+.card_cuerpo,h3,h5,p{
+    padding: 0.3rem;
+}
+.btn_modal_paciente{
+    margin-top: 5rem;
+    
+}
+
+
+/* termina mostrar paciente */
+
+/*  Mostrar/crear cita */
+.tabla_citas{
+    margin-top: 1rem;
+}
+/*  fin mostrar/crear cita */
